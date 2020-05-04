@@ -1,0 +1,4 @@
+{
+  "identity-path": "/config/identity.ini",
+  "ts3-server": "ts3server://<jazda.ts3index.com>?port=<9987>&password=<password>&channel=<36>"
+}
